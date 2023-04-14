@@ -1,4 +1,4 @@
-# Quick openvpn-docker-compose
+# Quick OpenVPN docker-compose
 
 * Add a new service in docker-compose.yml
 
